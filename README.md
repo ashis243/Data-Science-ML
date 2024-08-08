@@ -1,2 +1,2 @@
 # Data-Science-ML
-This is for my codes of Data science assignments
+These are my  Data science/ML  assignments and Projects
